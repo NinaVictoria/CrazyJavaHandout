@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Example1"},{"l":"所有类","url":"allclasses-index.html"}]
