@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4be5dba4-91d1-4f85-9637-04459459a969" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HideTest/HideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticImportTest/StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/autoBoxingUnboxing/AutoBoxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commandPattern/AddCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commandPattern/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commandPattern/CommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commandPattern/CommandTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commandPattern/PrintCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commandPattern/ProcessArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryProgram/BetterPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryProgram/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryProgram/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryProgram/OutputFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryProgram/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectMethod/PrintObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,35 +45,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Recursive/Recursive.java">
+        <entry file="file://$PROJECT_DIR$/src/commandPattern/ProcessArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="312">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StaticImportTest/StaticImport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HideTest/HideTest.java">
+        <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="168">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commandPattern/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commandPattern/AddCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commandPattern/PrintCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -72,6 +107,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -85,6 +121,20 @@
         <option value="$PROJECT_DIR$/src/Recursive/Recursive.java" />
         <option value="$PROJECT_DIR$/src/StaticImportTest/StaticImport.java" />
         <option value="$PROJECT_DIR$/src/HideTest/HideTest.java" />
+        <option value="$PROJECT_DIR$/src/autoBoxingUnboxing/AutoBoxingUnboxing.java" />
+        <option value="$PROJECT_DIR$/src/objectMethod/PrintObject.java" />
+        <option value="$PROJECT_DIR$/src/singleton/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/factoryProgram/Output.java" />
+        <option value="$PROJECT_DIR$/src/factoryProgram/Computer.java" />
+        <option value="$PROJECT_DIR$/src/factoryProgram/OutputFactory.java" />
+        <option value="$PROJECT_DIR$/src/factoryProgram/BetterPrinter.java" />
+        <option value="$PROJECT_DIR$/src/factoryProgram/Printer.java" />
+        <option value="$PROJECT_DIR$/src/commandPattern/Command.java" />
+        <option value="$PROJECT_DIR$/src/commandPattern/PrintCommand.java" />
+        <option value="$PROJECT_DIR$/src/commandPattern/CommandTest.java" />
+        <option value="$PROJECT_DIR$/src/commandPattern/AddCommand.java" />
+        <option value="$PROJECT_DIR$/src/commandPattern/ProcessArray.java" />
+        <option value="$PROJECT_DIR$/src/commandPattern/CommandTest2.java" />
       </list>
     </option>
   </component>
@@ -108,6 +158,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,7 +176,7 @@
               <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="Examples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HideTest" type="462c0819:PsiDirectoryNode" />
+              <item name="commandPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
@@ -134,8 +186,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,6 +195,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="commandPattern" />
+      <recent name="factoryProgram" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,13 +215,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.HideTest">
-    <configuration name="HideTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HideTest.HideTest" />
+  <component name="RunManager" selected="应用程序.CommandTest2">
+    <configuration name="CommandTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="commandPattern.CommandTest" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HideTest.*" />
+          <option name="PATTERN" value="commandPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +229,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursive" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursive.Recursive" />
+    <configuration name="CommandTest2" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="commandPattern.CommandTest2" />
       <module name="Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursive.*" />
+          <option name="PATTERN" value="commandPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputFactory" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factoryProgram.OutputFactory" />
+      <module name="Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factoryProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintObject" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectMethod.PrintObject" />
+      <module name="Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.SingletonTest" />
+      <module name="Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,8 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.HideTest" />
-        <item itemvalue="应用程序.Recursive" />
+        <item itemvalue="应用程序.CommandTest2" />
+        <item itemvalue="应用程序.CommandTest" />
+        <item itemvalue="应用程序.OutputFactory" />
+        <item itemvalue="应用程序.SingletonTest" />
+        <item itemvalue="应用程序.PrintObject" />
       </list>
     </recent_temporary>
   </component>
@@ -203,16 +302,17 @@
       <option name="presentableId" value="Default" />
       <updated>1594733511233</updated>
       <workItem from="1594733512705" duration="885000" />
+      <workItem from="1595314777285" duration="17295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6803000" />
+    <option name="totallyTimeSpent" value="24098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11137629" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112171836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="设计师" order="3" />
@@ -229,7 +329,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32942098" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24980111" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -249,7 +349,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Recursive/Recursive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
+        <state relative-caret-position="480">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#190#191#0" expanded="true" />
@@ -260,7 +360,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StaticImportTest/StaticImport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="168">
           <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -271,7 +371,139 @@
     <entry file="file://$PROJECT_DIR$/src/HideTest/HideTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoBoxingUnboxing/AutoBoxingUnboxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/objectMethod/PrintObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryProgram/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryProgram/BetterPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryProgram/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryProgram/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryProgram/OutputFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/AddCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/ProcessArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/PrintCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
