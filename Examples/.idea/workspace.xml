@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4be5dba4-91d1-4f85-9637-04459459a969" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/autoBoxingUnboxing/AutoBoxingUnboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commandPattern/AddCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commandPattern/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commandPattern/CommandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commandPattern/CommandTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commandPattern/PrintCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commandPattern/ProcessArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryProgram/BetterPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryProgram/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryProgram/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryProgram/OutputFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryProgram/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectMethod/PrintObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumtest/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumtest/SeasonEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumtest/enumClassWithAbstractMethod/Operation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,20 +36,58 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commandPattern/ProcessArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="264">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
+                <element signature="e#183#184#0" expanded="true" />
                 <element signature="e#218#219#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enumtest/SeasonEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enumtest/EnumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/enumtest/enumClassWithAbstractMethod/Operation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="30" column="56" lean-forward="true" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -109,6 +136,7 @@
         <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -135,6 +163,9 @@
         <option value="$PROJECT_DIR$/src/commandPattern/AddCommand.java" />
         <option value="$PROJECT_DIR$/src/commandPattern/ProcessArray.java" />
         <option value="$PROJECT_DIR$/src/commandPattern/CommandTest2.java" />
+        <option value="$PROJECT_DIR$/src/enumtest/SeasonEnum.java" />
+        <option value="$PROJECT_DIR$/src/enumtest/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/enumtest/enumClassWithAbstractMethod/Operation.java" />
       </list>
     </option>
   </component>
@@ -158,8 +189,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,6 +208,19 @@
               <item name="Examples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="commandPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="enumtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="enumtest" type="462c0819:PsiDirectoryNode" />
+              <item name="enumClassWithAbstractMethod" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
@@ -215,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.CommandTest2">
+  <component name="RunManager" selected="应用程序.Operation">
     <configuration name="CommandTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="commandPattern.CommandTest" />
       <module name="Examples" />
@@ -242,6 +286,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EnumTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumtest.EnumTest" />
+      <module name="Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operation" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumtest.enumClassWithAbstractMethod.Operation" />
+      <module name="Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumtest.enumClassWithAbstractMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OutputFactory" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factoryProgram.OutputFactory" />
       <module name="Examples" />
@@ -255,39 +325,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintObject" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectMethod.PrintObject" />
-      <module name="Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objectMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingletonTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.SingletonTest" />
-      <module name="Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Operation" />
+        <item itemvalue="应用程序.EnumTest" />
         <item itemvalue="应用程序.CommandTest2" />
         <item itemvalue="应用程序.CommandTest" />
         <item itemvalue="应用程序.OutputFactory" />
-        <item itemvalue="应用程序.SingletonTest" />
-        <item itemvalue="应用程序.PrintObject" />
       </list>
     </recent_temporary>
   </component>
@@ -303,16 +347,19 @@
       <updated>1594733511233</updated>
       <workItem from="1594733512705" duration="885000" />
       <workItem from="1595314777285" duration="17295000" />
+      <workItem from="1595386922816" duration="1900000" />
+      <workItem from="1595418481313" duration="3424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24098000" />
+    <option name="totallyTimeSpent" value="29422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112171836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11376293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="设计师" order="3" />
@@ -462,6 +509,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/ProcessArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enumtest/SeasonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enumtest/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/commandPattern/Command.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -476,23 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/commandPattern/ProcessArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/commandPattern/PrintCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -500,10 +569,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/commandPattern/CommandTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/enumtest/enumClassWithAbstractMethod/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="720">
+          <caret line="30" column="56" lean-forward="true" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
