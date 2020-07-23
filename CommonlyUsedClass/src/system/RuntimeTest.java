@@ -2,8 +2,6 @@ package system;
 
 import java.util.concurrent.CompletableFuture;
 
-import static java.lang.Thread.sleep;
-
 /**
  * @author Nina
  * DateTime 2020/7/22 21:00
