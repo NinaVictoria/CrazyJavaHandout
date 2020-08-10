@@ -1,0 +1,2 @@
+string1=java.lang.String
+a=java.util.Date
