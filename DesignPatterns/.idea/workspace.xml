@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="709d82d2-9743-4dad-97ad-e7a96e447d9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/INote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/IVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/FactoryMethodPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/ICourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/JavaCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/PythonCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBCOperation/JDBCOperation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/DBConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/connection-INF.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactoryPattern/SimpleFactoryPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactoryPattern/src/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactoryPattern/src/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactoryPattern/src/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactoryPattern/src/PythonCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleFactoryPattern/src/Test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SimpleFactoryPattern/src/ICourse.java" />
+        <option value="$PROJECT_DIR$/SimpleFactoryPattern/src/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/SimpleFactoryPattern/src/PythonClass.java" />
+        <option value="$PROJECT_DIR$/SimpleFactoryPattern/src/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/SimpleFactoryPattern/src/Test.java" />
+        <option value="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/interfaces/ICourse.java" />
+        <option value="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/interfaces/ICourseFactory.java" />
+        <option value="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/interfaces/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/interfaces/JavaCourseFactory.java" />
+        <option value="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/interfaces/PythonCourseFactory.java" />
+        <option value="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/PythonCourseFactory.java" />
+        <option value="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/Test.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/IVideo.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/INote.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaVideo.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaNote.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonVideo.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonNote.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaCourseFactory.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonCourseFactory.java" />
+        <option value="$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/Test.java" />
+        <option value="$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/DBConnectionPool.java" />
+        <option value="$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/Pool.java" />
+        <option value="$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/connection-INF.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Developer_tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Developer_tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/interfaces" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nina" />
+      <recent name="com.nina.interfaces" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\GitCodes\Java\CrazyJavaHandout\DesignPatterns\FactoryMethodPattern\src\com\nina\interfaces" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nina.Test" />
+      <module name="FactoryMethodPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nina.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nina.Test" />
+      <module name="AbstractFactoryPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nina.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="SimpleFactoryPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="709d82d2-9743-4dad-97ad-e7a96e447d9f" name="Default Changelist" comment="" />
+      <created>1597217342054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597217342054</updated>
+      <workItem from="1597217344428" duration="7895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7895000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13285601" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32942098" />
+      <window_info anchor="bottom" id="Messages" weight="0.32942098" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21048513" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SimpleFactoryPattern/src/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFactoryPattern/src/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFactoryPattern/src/PythonCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFactoryPattern/src/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFactoryPattern/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/PythonCourse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/PythonCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/ICourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactoryMethodPattern/src/com/nina/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/IVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/INote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactoryPattern/src/com/nina/PythonCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/DBConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="55" column="47" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3555#3556#0" expanded="true" />
+            <element signature="e#3634#3635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/Pool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="41" column="74" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDBCOperation/src/com/nina/jdbc/sqlhelper/connection-INF.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

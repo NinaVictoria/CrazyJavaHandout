@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodPattern/FactoryMethodPattern.iml" filepath="$PROJECT_DIR$/FactoryMethodPattern/FactoryMethodPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCOperation/JDBCOperation.iml" filepath="$PROJECT_DIR$/JDBCOperation/JDBCOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactoryPattern/SimpleFactoryPattern.iml" filepath="$PROJECT_DIR$/SimpleFactoryPattern/SimpleFactoryPattern.iml" />
+    </modules>
+  </component>
+</project>
